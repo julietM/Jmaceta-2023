@@ -1,16 +1,38 @@
 {
   "files": {
-    "main.css": "/Jmaceta-2023/static/css/main.f855e6bc.css",
-    "main.js": "/Jmaceta-2023/static/js/main.ff709e35.js",
+    "main.css": "/Jmaceta-2023/static/css/main.bccf9f45.css",
+    "main.js": "/Jmaceta-2023/static/js/main.ff3d71a6.js",
     "static/js/453.acfe5a7b.chunk.js": "/Jmaceta-2023/static/js/453.acfe5a7b.chunk.js",
-    "static/media/logo.svg": "/Jmaceta-2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/gif1.gif": "/Jmaceta-2023/static/media/gif1.e3ae3d1670dc9d9da52d.gif",
+    "static/media/maceta2.png": "/Jmaceta-2023/static/media/maceta2.e1539b73a5a47f2da6da.png",
+    "static/media/maceta13.png": "/Jmaceta-2023/static/media/maceta13.d086557ad2e64a2c61d1.png",
+    "static/media/maceta14.png": "/Jmaceta-2023/static/media/maceta14.a622d321500f663885ae.png",
+    "static/media/maceta10.png": "/Jmaceta-2023/static/media/maceta10.74e4ab65e16a31e380f0.png",
+    "static/media/maceta12.png": "/Jmaceta-2023/static/media/maceta12.09f7b8d135518ea52580.png",
+    "static/media/maceta4.png": "/Jmaceta-2023/static/media/maceta4.4e00b4aaaa5a3287a2ea.png",
+    "static/media/maceta3.png": "/Jmaceta-2023/static/media/maceta3.8db4a3022b7358595a31.png",
+    "static/media/macetas15.png": "/Jmaceta-2023/static/media/macetas15.9e3c88091d6c2dd3d9dd.png",
+    "static/media/Maceta1.png": "/Jmaceta-2023/static/media/Maceta1.fb87f841d8811e465131.png",
+    "static/media/mesa18.png": "/Jmaceta-2023/static/media/mesa18.2ccb4f33e84b7be45afe.png",
+    "static/media/maceta9.png": "/Jmaceta-2023/static/media/maceta9.d97f861e1948dfc6dc26.png",
+    "static/media/maceta16.png": "/Jmaceta-2023/static/media/maceta16.da5c9e6e4cdfd0f836c2.png",
+    "static/media/matero1.jpg": "/Jmaceta-2023/static/media/matero1.1c8cc6849b507d2ccf8a.jpg",
+    "static/media/maceta11.png": "/Jmaceta-2023/static/media/maceta11.e8056b85686be685710f.png",
+    "static/media/maceta17.png": "/Jmaceta-2023/static/media/maceta17.1109224f88fa0550a7b6.png",
+    "static/media/maceta6.png": "/Jmaceta-2023/static/media/maceta6.4e72b4cd24a6a4d6a97f.png",
+    "static/media/mactea8.png": "/Jmaceta-2023/static/media/mactea8.8d01422f5ceadaeede8b.png",
+    "static/media/mesa19.png": "/Jmaceta-2023/static/media/mesa19.114ed07ce52b048ef06a.png",
+    "static/media/mesa20.png": "/Jmaceta-2023/static/media/mesa20.218776f7d144a7dd7a1e.png",
+    "static/media/maceta7.png": "/Jmaceta-2023/static/media/maceta7.d61386a471096dc7730c.png",
+    "static/media/logo1.png": "/Jmaceta-2023/static/media/logo1.57df7d8bc7c5c8f5fde8.png",
+    "static/media/maceta5.png": "/Jmaceta-2023/static/media/maceta5.a4def51cb36c1f40292d.png",
     "index.html": "/Jmaceta-2023/index.html",
-    "main.f855e6bc.css.map": "/Jmaceta-2023/static/css/main.f855e6bc.css.map",
-    "main.ff709e35.js.map": "/Jmaceta-2023/static/js/main.ff709e35.js.map",
+    "main.bccf9f45.css.map": "/Jmaceta-2023/static/css/main.bccf9f45.css.map",
+    "main.ff3d71a6.js.map": "/Jmaceta-2023/static/js/main.ff3d71a6.js.map",
     "453.acfe5a7b.chunk.js.map": "/Jmaceta-2023/static/js/453.acfe5a7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ff709e35.js"
+    "static/css/main.bccf9f45.css",
+    "static/js/main.ff3d71a6.js"
   ]
 }
