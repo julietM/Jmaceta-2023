@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jmaceta-2023/static/css/main.ed7f8003.css",
+    "main.css": "/Jmaceta-2023/static/css/main.ef190854.css",
     "main.js": "/Jmaceta-2023/static/js/main.489bee66.js",
     "static/js/453.2835f0c0.chunk.js": "/Jmaceta-2023/static/js/453.2835f0c0.chunk.js",
     "static/media/gif1.gif": "/Jmaceta-2023/static/media/gif1.e3ae3d1670dc9d9da52d.gif",
@@ -36,12 +36,12 @@
     "static/media/mesacon8.jpg": "/Jmaceta-2023/static/media/mesacon8.9b095f8062575c3e0e46.jpg",
     "static/media/mesacon4.jpg": "/Jmaceta-2023/static/media/mesacon4.b22bc448725ae43fc99b.jpg",
     "index.html": "/Jmaceta-2023/index.html",
-    "main.ed7f8003.css.map": "/Jmaceta-2023/static/css/main.ed7f8003.css.map",
+    "main.ef190854.css.map": "/Jmaceta-2023/static/css/main.ef190854.css.map",
     "main.489bee66.js.map": "/Jmaceta-2023/static/js/main.489bee66.js.map",
     "453.2835f0c0.chunk.js.map": "/Jmaceta-2023/static/js/453.2835f0c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed7f8003.css",
+    "static/css/main.ef190854.css",
     "static/js/main.489bee66.js"
   ]
 }
